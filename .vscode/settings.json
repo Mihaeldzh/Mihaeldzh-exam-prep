@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.commandsToSkipShell": [],
+  "terminal.integrated.env.linux": {
+      "PATH": "/home/mihaeldzhigov/.nvm/versions/node/v20.14.0/bin:$PATH"
+  }
+}

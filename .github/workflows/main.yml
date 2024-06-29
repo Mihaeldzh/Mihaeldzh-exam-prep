@@ -67,7 +67,8 @@ jobs:
      
     - name: setup Playwrite
       run: npx playwright install
-      
+    - name: server
+      run: npm start
     - name: Run UI Tests
       run: npm run test:ui
 
